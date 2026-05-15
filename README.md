@@ -8,33 +8,4 @@ Real-Time Predictions: Instant price estimates using a trained regression model.
 Data Visualization: Charts showing feature importance and prediction confidence.
 Responsive Design: Works seamlessly on desktop and mobile devices.
 Customizable: Easily extendable for additional features or datasets.
-Installation
-To run this app locally, follow these steps:
 
-Clone the repository:
-
-Copy code
-git clone https://github.com/yourusername/car-prediction-model.git
-Navigate to the project directory:
-
-Copy code
-cd car-prediction-model
-Install dependencies:
-
-Copy code
-pip install -r requirements.txt
-Run the app:
-
-Copy code
-streamlit run app.py
-Usage
-Open the app in your browser (or visit the live demo).
-Fill in the car details (e.g., brand, year, mileage).
-Click "Predict" to get the estimated price.
-Explore visualizations for insights.
-Technologies Used
-Python: Core language.
-Streamlit: For the web interface.
-Scikit-Learn: For machine learning model.
-Pandas & NumPy: Data processing.
-Matplotlib/Seaborn: Visualizations.
