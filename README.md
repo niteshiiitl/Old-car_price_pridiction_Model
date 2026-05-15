@@ -1,4 +1,4 @@
-# car_pridiction_Model
+# Old car_price_pridiction_Model
 Description
 This is a machine learning-based web application for predicting car prices based on various features such as make, model, year, mileage, and more. Built with Streamlit, it provides an intuitive interface for users to input car details and receive instant price estimates. The model is trained on a dataset of historical car sales data to ensure accurate predictions, helping buyers, sellers, and enthusiasts make informed decisions.
 
